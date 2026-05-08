@@ -1,5 +1,6 @@
 # skillinfytech-data-analytics-projects
-DevOps internship projects at SkillInfyTech, including GitHub workflow management, CI/CD automation using GitHub Actions, and monitoring dashboards with Prometheus &amp; Grafana. Gained practical skills in version control, automation, and data visualization.
+This repository contains projects completed during my internship at SkillInfyTech IT Solutions Pvt Ltd.
+
 ## Selected Projects
 1. GitHub Repository with Branch Workflow
 2. GitHub Actions CI/CD Automation
