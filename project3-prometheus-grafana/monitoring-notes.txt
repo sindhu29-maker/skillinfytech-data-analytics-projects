@@ -1,0 +1,1 @@
+This project demonstrates basic monitoring and dashboard visualization concepts using Prometheus and Grafana tools.
